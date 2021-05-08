@@ -1,5 +1,5 @@
 ## Ivan Dario Gomez Garcia
-### Software Developer
+### Web UI Developer
 
 - <img src="https://es.reactjs.org/favicon.ico" alt="React favicon" width="16" /> React developer
 
